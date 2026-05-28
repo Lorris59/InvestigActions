@@ -1,0 +1,1 @@
+{"name":"Investig'Action","short_name":"InvestigAction","description":"Application de gestion des enquêtes HSE et suivi des visites terrain.","start_url":"./","display":"standalone","background_color":"#ffffff","theme_color":"#002B49","lang":"en","scope":"./","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
